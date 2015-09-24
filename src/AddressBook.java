@@ -32,6 +32,7 @@ import java.util.ArrayList;
 	 stuff.addBuddy(buddy); 
 	 stuff.addBuddy(buddy2);
 	 //change after uploading it online
+	 //another 
 	 stuff.addBuddy(buddy2);
 	 
 	 stuff.removeBuddy(0); 
