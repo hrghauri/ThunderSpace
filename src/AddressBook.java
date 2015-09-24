@@ -34,6 +34,7 @@ import java.util.ArrayList;
 	 //change after uploading it online
 	 //another 
 	 stuff.addBuddy(buddy2);
+	 stuff.addBuddy(buddy2);
 	 
 	 stuff.removeBuddy(0); 
 	 } 
